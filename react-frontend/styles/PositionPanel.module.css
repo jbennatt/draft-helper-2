@@ -1,0 +1,11 @@
+.pos_panel_div {
+    margin: 5px auto;
+    height: 300px;
+    /* width: 'max-content'; */
+    overflow: auto;
+    font-size: 8px;
+  }
+  
+  /* .item {
+    margin: 0;
+  } */

@@ -1,0 +1,8 @@
+.drafted_label {
+    border-radius: 4px;
+    background-color: yellow;
+}
+
+.drafted_label:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.drafted {
+    filter: opacity(30%)
+}
+
+.undrafted {
+    filter: opacity(100%)
+}
+
+.your_pick {
+    filter: brightness(50%)
+}
+
+.player_label:hover {
+    cursor: pointer;
+}

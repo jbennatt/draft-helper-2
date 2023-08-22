@@ -1,0 +1,4315 @@
+{
+    "last_update": "2023-08-05",
+    "players": [
+        {
+            "rk": 1,
+            "tiers": 1,
+            "player_name": "Justin Jefferson",
+            "team": "MIN",
+            "pos": "WR1",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 2,
+            "tiers": 1,
+            "player_name": "Christian McCaffrey",
+            "team": "SF",
+            "pos": "RB1",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 3,
+            "tiers": 1,
+            "player_name": "Ja'Marr Chase",
+            "team": "CIN",
+            "pos": "WR2",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 4,
+            "tiers": 1,
+            "player_name": "Austin Ekeler",
+            "team": "LAC",
+            "pos": "RB2",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 5,
+            "tiers": 2,
+            "player_name": "Cooper Kupp",
+            "team": "LAR",
+            "pos": "WR3",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 6,
+            "tiers": 2,
+            "player_name": "Travis Kelce",
+            "team": "KC",
+            "pos": "TE1",
+            "bye_week": 10,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 7,
+            "tiers": 2,
+            "player_name": "Tyreek Hill",
+            "team": "MIA",
+            "pos": "WR4",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 8,
+            "tiers": 2,
+            "player_name": "Bijan Robinson",
+            "team": "ATL",
+            "pos": "RB3",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 9,
+            "tiers": 2,
+            "player_name": "Nick Chubb",
+            "team": "CLE",
+            "pos": "RB4",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 10,
+            "tiers": 3,
+            "player_name": "Saquon Barkley",
+            "team": "NYG",
+            "pos": "RB5",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 11,
+            "tiers": 3,
+            "player_name": "Stefon Diggs",
+            "team": "BUF",
+            "pos": "WR5",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 12,
+            "tiers": 3,
+            "player_name": "Tony Pollard",
+            "team": "DAL",
+            "pos": "RB6",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+6"
+        },
+        {
+            "rk": 13,
+            "tiers": 3,
+            "player_name": "CeeDee Lamb",
+            "team": "DAL",
+            "pos": "WR6",
+            "bye_week": 7,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 14,
+            "tiers": 3,
+            "player_name": "Jonathan Taylor",
+            "team": "IND",
+            "pos": "RB7",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -2
+        },
+        {
+            "rk": 15,
+            "tiers": 3,
+            "player_name": "Davante Adams",
+            "team": "LV",
+            "pos": "WR7",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+1"
+        },
+        {
+            "rk": 16,
+            "tiers": 3,
+            "player_name": "A.J. Brown",
+            "team": "PHI",
+            "pos": "WR8",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -2
+        },
+        {
+            "rk": 17,
+            "tiers": 3,
+            "player_name": "Amon-Ra St. Brown",
+            "team": "DET",
+            "pos": "WR9",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 18,
+            "tiers": 3,
+            "player_name": "Derrick Henry",
+            "team": "TEN",
+            "pos": "RB8",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 19,
+            "tiers": 3,
+            "player_name": "Garrett Wilson",
+            "team": "NYJ",
+            "pos": "WR10",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+1"
+        },
+        {
+            "rk": 20,
+            "tiers": 4,
+            "player_name": "Josh Jacobs",
+            "team": "LV",
+            "pos": "RB9",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+1"
+        },
+        {
+            "rk": 21,
+            "tiers": 4,
+            "player_name": "Jaylen Waddle",
+            "team": "MIA",
+            "pos": "WR11",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+3"
+        },
+        {
+            "rk": 22,
+            "tiers": 4,
+            "player_name": "Rhamondre Stevenson",
+            "team": "NE",
+            "pos": "RB10",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+3"
+        },
+        {
+            "rk": 23,
+            "tiers": 4,
+            "player_name": "Chris Olave",
+            "team": "NO",
+            "pos": "WR12",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+8"
+        },
+        {
+            "rk": 24,
+            "tiers": 4,
+            "player_name": "Najee Harris",
+            "team": "PIT",
+            "pos": "RB11",
+            "bye_week": 6,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 25,
+            "tiers": 4,
+            "player_name": "Mark Andrews",
+            "team": "BAL",
+            "pos": "TE2",
+            "bye_week": 13,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+3"
+        },
+        {
+            "rk": 26,
+            "tiers": 4,
+            "player_name": "DeVonta Smith",
+            "team": "PHI",
+            "pos": "WR13",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+4"
+        },
+        {
+            "rk": 27,
+            "tiers": 5,
+            "player_name": "Tee Higgins",
+            "team": "CIN",
+            "pos": "WR14",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+5"
+        },
+        {
+            "rk": 28,
+            "tiers": 5,
+            "player_name": "Patrick Mahomes II",
+            "team": "KC",
+            "pos": "QB1",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -13
+        },
+        {
+            "rk": 29,
+            "tiers": 5,
+            "player_name": "Josh Allen",
+            "team": "BUF",
+            "pos": "QB2",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -7
+        },
+        {
+            "rk": 30,
+            "tiers": 5,
+            "player_name": "Breece Hall",
+            "team": "NYJ",
+            "pos": "RB12",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -3
+        },
+        {
+            "rk": 31,
+            "tiers": 5,
+            "player_name": "Jalen Hurts",
+            "team": "PHI",
+            "pos": "QB3",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -8
+        },
+        {
+            "rk": 32,
+            "tiers": 5,
+            "player_name": "Joe Mixon",
+            "team": "CIN",
+            "pos": "RB13",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+8"
+        },
+        {
+            "rk": 33,
+            "tiers": 5,
+            "player_name": "Travis Etienne Jr.",
+            "team": "JAC",
+            "pos": "RB14",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -4
+        },
+        {
+            "rk": 34,
+            "tiers": 5,
+            "player_name": "DK Metcalf",
+            "team": "SEA",
+            "pos": "WR15",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+1"
+        },
+        {
+            "rk": 35,
+            "tiers": 5,
+            "player_name": "Jahmyr Gibbs",
+            "team": "DET",
+            "pos": "RB15",
+            "bye_week": 9,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 36,
+            "tiers": 5,
+            "player_name": "Aaron Jones",
+            "team": "GB",
+            "pos": "RB16",
+            "bye_week": 6,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 37,
+            "tiers": 5,
+            "player_name": "Keenan Allen",
+            "team": "LAC",
+            "pos": "WR16",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+8"
+        },
+        {
+            "rk": 38,
+            "tiers": 5,
+            "player_name": "Amari Cooper",
+            "team": "CLE",
+            "pos": "WR17",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+3"
+        },
+        {
+            "rk": 39,
+            "tiers": 5,
+            "player_name": "Calvin Ridley",
+            "team": "JAC",
+            "pos": "WR18",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+4"
+        },
+        {
+            "rk": 40,
+            "tiers": 5,
+            "player_name": "Kenneth Walker III",
+            "team": "SEA",
+            "pos": "RB17",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 41,
+            "tiers": 5,
+            "player_name": "Lamar Jackson",
+            "team": "BAL",
+            "pos": "QB4",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -5
+        },
+        {
+            "rk": 42,
+            "tiers": 6,
+            "player_name": "Deebo Samuel",
+            "team": "SF",
+            "pos": "WR19",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -3
+        },
+        {
+            "rk": 43,
+            "tiers": 6,
+            "player_name": "J.K. Dobbins",
+            "team": "BAL",
+            "pos": "RB18",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+7"
+        },
+        {
+            "rk": 44,
+            "tiers": 6,
+            "player_name": "T.J. Hockenson",
+            "team": "MIN",
+            "pos": "TE3",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -2
+        },
+        {
+            "rk": 45,
+            "tiers": 6,
+            "player_name": "Joe Burrow",
+            "team": "CIN",
+            "pos": "QB5",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -12
+        },
+        {
+            "rk": 46,
+            "tiers": 6,
+            "player_name": "Jerry Jeudy",
+            "team": "DEN",
+            "pos": "WR20",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+11"
+        },
+        {
+            "rk": 47,
+            "tiers": 6,
+            "player_name": "Cam Akers",
+            "team": "LAR",
+            "pos": "RB19",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+8"
+        },
+        {
+            "rk": 48,
+            "tiers": 6,
+            "player_name": "DJ Moore",
+            "team": "CHI",
+            "pos": "WR21",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+6"
+        },
+        {
+            "rk": 49,
+            "tiers": 6,
+            "player_name": "DeAndre Hopkins",
+            "team": "TEN",
+            "pos": "WR22",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 50,
+            "tiers": 6,
+            "player_name": "Alexander Mattison",
+            "team": "MIN",
+            "pos": "RB20",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "+6"
+        },
+        {
+            "rk": 51,
+            "tiers": 6,
+            "player_name": "Drake London",
+            "team": "ATL",
+            "pos": "WR23",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+10"
+        },
+        {
+            "rk": 52,
+            "tiers": 6,
+            "player_name": "Terry McLaurin",
+            "team": "WAS",
+            "pos": "WR24",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 53,
+            "tiers": 6,
+            "player_name": "Miles Sanders",
+            "team": "CAR",
+            "pos": "RB21",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 54,
+            "tiers": 6,
+            "player_name": "Christian Watson",
+            "team": "GB",
+            "pos": "WR25",
+            "bye_week": 6,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+10"
+        },
+        {
+            "rk": 55,
+            "tiers": 6,
+            "player_name": "Justin Herbert",
+            "team": "LAC",
+            "pos": "QB6",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -9
+        },
+        {
+            "rk": 56,
+            "tiers": 6,
+            "player_name": "Chris Godwin",
+            "team": "TB",
+            "pos": "WR26",
+            "bye_week": 5,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+10"
+        },
+        {
+            "rk": 57,
+            "tiers": 6,
+            "player_name": "Dameon Pierce",
+            "team": "HOU",
+            "pos": "RB22",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -13
+        },
+        {
+            "rk": 58,
+            "tiers": 6,
+            "player_name": "Justin Fields",
+            "team": "CHI",
+            "pos": "QB7",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -10
+        },
+        {
+            "rk": 59,
+            "tiers": 7,
+            "player_name": "Christian Kirk",
+            "team": "JAC",
+            "pos": "WR27",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+15"
+        },
+        {
+            "rk": 60,
+            "tiers": 7,
+            "player_name": "Trevor Lawrence",
+            "team": "JAC",
+            "pos": "QB8",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -7
+        },
+        {
+            "rk": 61,
+            "tiers": 7,
+            "player_name": "James Conner",
+            "team": "ARI",
+            "pos": "RB23",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 62,
+            "tiers": 7,
+            "player_name": "Brandon Aiyuk",
+            "team": "SF",
+            "pos": "WR28",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+9"
+        },
+        {
+            "rk": 63,
+            "tiers": 7,
+            "player_name": "Darren Waller",
+            "team": "NYG",
+            "pos": "TE4",
+            "bye_week": 13,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 64,
+            "tiers": 7,
+            "player_name": "George Kittle",
+            "team": "SF",
+            "pos": "TE5",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -15
+        },
+        {
+            "rk": 65,
+            "tiers": 7,
+            "player_name": "Tyler Lockett",
+            "team": "SEA",
+            "pos": "WR29",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 66,
+            "tiers": 7,
+            "player_name": "Rachaad White",
+            "team": "TB",
+            "pos": "RB24",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+3"
+        },
+        {
+            "rk": 67,
+            "tiers": 7,
+            "player_name": "Mike Williams",
+            "team": "LAC",
+            "pos": "WR30",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+3"
+        },
+        {
+            "rk": 68,
+            "tiers": 7,
+            "player_name": "Diontae Johnson",
+            "team": "PIT",
+            "pos": "WR31",
+            "bye_week": 6,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+15"
+        },
+        {
+            "rk": 69,
+            "tiers": 7,
+            "player_name": "Marquise Brown",
+            "team": "ARI",
+            "pos": "WR32",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+13"
+        },
+        {
+            "rk": 70,
+            "tiers": 7,
+            "player_name": "Kyle Pitts",
+            "team": "ATL",
+            "pos": "TE6",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -12
+        },
+        {
+            "rk": 71,
+            "tiers": 7,
+            "player_name": "David Montgomery",
+            "team": "DET",
+            "pos": "RB25",
+            "bye_week": 9,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "+5"
+        },
+        {
+            "rk": 72,
+            "tiers": 7,
+            "player_name": "Javonte Williams",
+            "team": "DEN",
+            "pos": "RB26",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -4
+        },
+        {
+            "rk": 73,
+            "tiers": 7,
+            "player_name": "Mike Evans",
+            "team": "TB",
+            "pos": "WR33",
+            "bye_week": 5,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+5"
+        },
+        {
+            "rk": 74,
+            "tiers": 7,
+            "player_name": "D'Andre Swift",
+            "team": "PHI",
+            "pos": "RB27",
+            "bye_week": 10,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": -11
+        },
+        {
+            "rk": 75,
+            "tiers": 7,
+            "player_name": "Michael Pittman Jr.",
+            "team": "IND",
+            "pos": "WR34",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 76,
+            "tiers": 7,
+            "player_name": "Isiah Pacheco",
+            "team": "KC",
+            "pos": "RB28",
+            "bye_week": 10,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -4
+        },
+        {
+            "rk": 77,
+            "tiers": 7,
+            "player_name": "Dallas Goedert",
+            "team": "PHI",
+            "pos": "TE7",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -15
+        },
+        {
+            "rk": 78,
+            "tiers": 7,
+            "player_name": "Alvin Kamara",
+            "team": "NO",
+            "pos": "RB29",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -5
+        },
+        {
+            "rk": 79,
+            "tiers": 7,
+            "player_name": "James Cook",
+            "team": "BUF",
+            "pos": "RB30",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 80,
+            "tiers": 8,
+            "player_name": "Deshaun Watson",
+            "team": "CLE",
+            "pos": "QB9",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 81,
+            "tiers": 8,
+            "player_name": "Jahan Dotson",
+            "team": "WAS",
+            "pos": "WR35",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+9"
+        },
+        {
+            "rk": 82,
+            "tiers": 8,
+            "player_name": "Dalvin Cook",
+            "team": "FA",
+            "pos": "RB31",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": -23
+        },
+        {
+            "rk": 83,
+            "tiers": 8,
+            "player_name": "George Pickens",
+            "team": "PIT",
+            "pos": "WR36",
+            "bye_week": 6,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+3"
+        },
+        {
+            "rk": 84,
+            "tiers": 8,
+            "player_name": "Jaxon Smith-Njigba",
+            "team": "SEA",
+            "pos": "WR37",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+5"
+        },
+        {
+            "rk": 85,
+            "tiers": 8,
+            "player_name": "Rashaad Penny",
+            "team": "PHI",
+            "pos": "RB32",
+            "bye_week": 10,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "+6"
+        },
+        {
+            "rk": 86,
+            "tiers": 8,
+            "player_name": "Treylon Burks",
+            "team": "TEN",
+            "pos": "WR38",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+6"
+        },
+        {
+            "rk": 87,
+            "tiers": 8,
+            "player_name": "Jordan Addison",
+            "team": "MIN",
+            "pos": "WR39",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+6"
+        },
+        {
+            "rk": 88,
+            "tiers": 8,
+            "player_name": "Brian Robinson Jr.",
+            "team": "WAS",
+            "pos": "RB33",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 89,
+            "tiers": 8,
+            "player_name": "Tua Tagovailoa",
+            "team": "MIA",
+            "pos": "QB10",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -2
+        },
+        {
+            "rk": 90,
+            "tiers": 8,
+            "player_name": "Antonio Gibson",
+            "team": "WAS",
+            "pos": "RB34",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+6"
+        },
+        {
+            "rk": 91,
+            "tiers": 8,
+            "player_name": "AJ Dillon",
+            "team": "GB",
+            "pos": "RB35",
+            "bye_week": 6,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -7
+        },
+        {
+            "rk": 92,
+            "tiers": 8,
+            "player_name": "Gabe Davis",
+            "team": "BUF",
+            "pos": "WR40",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+7"
+        },
+        {
+            "rk": 93,
+            "tiers": 8,
+            "player_name": "Dak Prescott",
+            "team": "DAL",
+            "pos": "QB11",
+            "bye_week": 7,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -16
+        },
+        {
+            "rk": 94,
+            "tiers": 8,
+            "player_name": "Khalil Herbert",
+            "team": "CHI",
+            "pos": "RB36",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "+4"
+        },
+        {
+            "rk": 95,
+            "tiers": 8,
+            "player_name": "Courtland Sutton",
+            "team": "DEN",
+            "pos": "WR41",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+19"
+        },
+        {
+            "rk": 96,
+            "tiers": 8,
+            "player_name": "Pat Freiermuth",
+            "team": "PIT",
+            "pos": "TE8",
+            "bye_week": 6,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -11
+        },
+        {
+            "rk": 97,
+            "tiers": 8,
+            "player_name": "Evan Engram",
+            "team": "JAC",
+            "pos": "TE9",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -16
+        },
+        {
+            "rk": 98,
+            "tiers": 8,
+            "player_name": "Brandin Cooks",
+            "team": "DAL",
+            "pos": "WR42",
+            "bye_week": 7,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 99,
+            "tiers": 8,
+            "player_name": "Elijah Moore",
+            "team": "CLE",
+            "pos": "WR43",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+10"
+        },
+        {
+            "rk": 100,
+            "tiers": 8,
+            "player_name": "Daniel Jones",
+            "team": "NYG",
+            "pos": "QB12",
+            "bye_week": 13,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 101,
+            "tiers": 8,
+            "player_name": "Damien Harris",
+            "team": "BUF",
+            "pos": "RB37",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+5"
+        },
+        {
+            "rk": 102,
+            "tiers": 9,
+            "player_name": "Samaje Perine",
+            "team": "DEN",
+            "pos": "RB38",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 103,
+            "tiers": 9,
+            "player_name": "Michael Thomas",
+            "team": "NO",
+            "pos": "WR44",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 104,
+            "tiers": 9,
+            "player_name": "David Njoku",
+            "team": "CLE",
+            "pos": "TE10",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -10
+        },
+        {
+            "rk": 105,
+            "tiers": 9,
+            "player_name": "Quentin Johnston",
+            "team": "LAC",
+            "pos": "WR45",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+15"
+        },
+        {
+            "rk": 106,
+            "tiers": 9,
+            "player_name": "Zay Flowers",
+            "team": "BAL",
+            "pos": "WR46",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+18"
+        },
+        {
+            "rk": 107,
+            "tiers": 9,
+            "player_name": "Rashod Bateman",
+            "team": "BAL",
+            "pos": "WR47",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+20"
+        },
+        {
+            "rk": 108,
+            "tiers": 9,
+            "player_name": "Geno Smith",
+            "team": "SEA",
+            "pos": "QB13",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 109,
+            "tiers": 9,
+            "player_name": "Kirk Cousins",
+            "team": "MIN",
+            "pos": "QB14",
+            "bye_week": 13,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -8
+        },
+        {
+            "rk": 110,
+            "tiers": 9,
+            "player_name": "JuJu Smith-Schuster",
+            "team": "NE",
+            "pos": "WR48",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+9"
+        },
+        {
+            "rk": 111,
+            "tiers": 9,
+            "player_name": "Jamaal Williams",
+            "team": "NO",
+            "pos": "RB39",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -16
+        },
+        {
+            "rk": 112,
+            "tiers": 9,
+            "player_name": "Zach Charbonnet",
+            "team": "SEA",
+            "pos": "RB40",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -2
+        },
+        {
+            "rk": 113,
+            "tiers": 9,
+            "player_name": "Kadarius Toney",
+            "team": "KC",
+            "pos": "WR49",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -13
+        },
+        {
+            "rk": 114,
+            "tiers": 9,
+            "player_name": "Elijah Mitchell",
+            "team": "SF",
+            "pos": "RB41",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 115,
+            "tiers": 9,
+            "player_name": "Aaron Rodgers",
+            "team": "NYJ",
+            "pos": "QB15",
+            "bye_week": 7,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -10
+        },
+        {
+            "rk": 116,
+            "tiers": 9,
+            "player_name": "Tyler Allgeier",
+            "team": "ATL",
+            "pos": "RB42",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+10"
+        },
+        {
+            "rk": 117,
+            "tiers": 9,
+            "player_name": "Jakobi Meyers",
+            "team": "LV",
+            "pos": "WR50",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+30"
+        },
+        {
+            "rk": 118,
+            "tiers": 9,
+            "player_name": "Nico Collins",
+            "team": "HOU",
+            "pos": "WR51",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+32"
+        },
+        {
+            "rk": 119,
+            "tiers": 9,
+            "player_name": "De'Von Achane",
+            "team": "MIA",
+            "pos": "RB43",
+            "bye_week": 10,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": -8
+        },
+        {
+            "rk": 120,
+            "tiers": 9,
+            "player_name": "Jared Goff",
+            "team": "DET",
+            "pos": "QB16",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -4
+        },
+        {
+            "rk": 121,
+            "tiers": 9,
+            "player_name": "Jameson Williams",
+            "team": "DET",
+            "pos": "WR52",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -3
+        },
+        {
+            "rk": 122,
+            "tiers": 9,
+            "player_name": "Greg Dulcich",
+            "team": "DEN",
+            "pos": "TE11",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 123,
+            "tiers": 9,
+            "player_name": "Dalton Schultz",
+            "team": "HOU",
+            "pos": "TE12",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 124,
+            "tiers": 9,
+            "player_name": "Anthony Richardson",
+            "team": "IND",
+            "pos": "QB17",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -12
+        },
+        {
+            "rk": 125,
+            "tiers": 9,
+            "player_name": "Odell Beckham Jr.",
+            "team": "BAL",
+            "pos": "WR53",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -18
+        },
+        {
+            "rk": 126,
+            "tiers": 9,
+            "player_name": "Allen Lazard",
+            "team": "NYJ",
+            "pos": "WR54",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+3"
+        },
+        {
+            "rk": 127,
+            "tiers": 9,
+            "player_name": "Jaylen Warren",
+            "team": "PIT",
+            "pos": "RB44",
+            "bye_week": 6,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+24"
+        },
+        {
+            "rk": 128,
+            "tiers": 9,
+            "player_name": "Chigoziem Okonkwo",
+            "team": "TEN",
+            "pos": "TE13",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -13
+        },
+        {
+            "rk": 129,
+            "tiers": 9,
+            "player_name": "Skyy Moore",
+            "team": "KC",
+            "pos": "WR55",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+6"
+        },
+        {
+            "rk": 130,
+            "tiers": 9,
+            "player_name": "Jerick McKinnon",
+            "team": "KC",
+            "pos": "RB45",
+            "bye_week": 10,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -8
+        },
+        {
+            "rk": 131,
+            "tiers": 10,
+            "player_name": "Rondale Moore",
+            "team": "ARI",
+            "pos": "WR56",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+21"
+        },
+        {
+            "rk": 132,
+            "tiers": 10,
+            "player_name": "Jeff Wilson Jr.",
+            "team": "MIA",
+            "pos": "RB46",
+            "bye_week": 10,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "+27"
+        },
+        {
+            "rk": 133,
+            "tiers": 10,
+            "player_name": "Russell Wilson",
+            "team": "DEN",
+            "pos": "QB18",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 134,
+            "tiers": 10,
+            "player_name": "Tyler Higbee",
+            "team": "LAR",
+            "pos": "TE14",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+21"
+        },
+        {
+            "rk": 135,
+            "tiers": 10,
+            "player_name": "Tyler Boyd",
+            "team": "CIN",
+            "pos": "WR57",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+8"
+        },
+        {
+            "rk": 136,
+            "tiers": 10,
+            "player_name": "Darnell Mooney",
+            "team": "CHI",
+            "pos": "WR58",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+29"
+        },
+        {
+            "rk": 137,
+            "tiers": 10,
+            "player_name": "D'Onta Foreman",
+            "team": "CHI",
+            "pos": "RB47",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 138,
+            "tiers": 10,
+            "player_name": "Devin Singletary",
+            "team": "HOU",
+            "pos": "RB48",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -2
+        },
+        {
+            "rk": 139,
+            "tiers": 10,
+            "player_name": "Zay Jones",
+            "team": "JAC",
+            "pos": "WR59",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+33"
+        },
+        {
+            "rk": 140,
+            "tiers": 10,
+            "player_name": "Kendre Miller",
+            "team": "NO",
+            "pos": "RB49",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 141,
+            "tiers": 10,
+            "player_name": "Cole Kmet",
+            "team": "CHI",
+            "pos": "TE15",
+            "bye_week": 13,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -18
+        },
+        {
+            "rk": 142,
+            "tiers": 10,
+            "player_name": "Adam Thielen",
+            "team": "CAR",
+            "pos": "WR60",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -8
+        },
+        {
+            "rk": 143,
+            "tiers": 10,
+            "player_name": "Dalton Kincaid",
+            "team": "BUF",
+            "pos": "TE16",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -15
+        },
+        {
+            "rk": 144,
+            "tiers": 10,
+            "player_name": "Gerald Everett",
+            "team": "LAC",
+            "pos": "TE17",
+            "bye_week": 5,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+38"
+        },
+        {
+            "rk": 145,
+            "tiers": 10,
+            "player_name": "DJ Chark Jr.",
+            "team": "CAR",
+            "pos": "WR61",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+33"
+        },
+        {
+            "rk": 146,
+            "tiers": 10,
+            "player_name": "Tank Bigsby",
+            "team": "JAC",
+            "pos": "RB50",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+8"
+        },
+        {
+            "rk": 147,
+            "tiers": 10,
+            "player_name": "Raheem Mostert",
+            "team": "MIA",
+            "pos": "RB51",
+            "bye_week": 10,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": -8
+        },
+        {
+            "rk": 148,
+            "tiers": 10,
+            "player_name": "Chuba Hubbard",
+            "team": "CAR",
+            "pos": "RB52",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+10"
+        },
+        {
+            "rk": 149,
+            "tiers": 10,
+            "player_name": "Kenneth Gainwell",
+            "team": "PHI",
+            "pos": "RB53",
+            "bye_week": 10,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "+35"
+        },
+        {
+            "rk": 150,
+            "tiers": 10,
+            "player_name": "Romeo Doubs",
+            "team": "GB",
+            "pos": "WR62",
+            "bye_week": 6,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -8
+        },
+        {
+            "rk": 151,
+            "tiers": 10,
+            "player_name": "Michael Gallup",
+            "team": "DAL",
+            "pos": "WR63",
+            "bye_week": 7,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+13"
+        },
+        {
+            "rk": 152,
+            "tiers": 10,
+            "player_name": "Donovan Peoples-Jones",
+            "team": "CLE",
+            "pos": "WR64",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+43"
+        },
+        {
+            "rk": 153,
+            "tiers": 10,
+            "player_name": "Matthew Stafford",
+            "team": "LAR",
+            "pos": "QB19",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+17"
+        },
+        {
+            "rk": 154,
+            "tiers": 10,
+            "player_name": "Derek Carr",
+            "team": "NO",
+            "pos": "QB20",
+            "bye_week": 11,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "+12"
+        },
+        {
+            "rk": 155,
+            "tiers": 10,
+            "player_name": "Rashid Shaheed",
+            "team": "NO",
+            "pos": "WR65",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+54"
+        },
+        {
+            "rk": 156,
+            "tiers": 10,
+            "player_name": "Mike Gesicki",
+            "team": "NE",
+            "pos": "TE18",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+35"
+        },
+        {
+            "rk": 157,
+            "tiers": 10,
+            "player_name": "Juwan Johnson",
+            "team": "NO",
+            "pos": "TE19",
+            "bye_week": 11,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "+22"
+        },
+        {
+            "rk": 158,
+            "tiers": 10,
+            "player_name": "Jerome Ford",
+            "team": "CLE",
+            "pos": "RB54",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+43"
+        },
+        {
+            "rk": 159,
+            "tiers": 11,
+            "player_name": "K.J. Osborn",
+            "team": "MIN",
+            "pos": "WR66",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+40"
+        },
+        {
+            "rk": 160,
+            "tiers": 11,
+            "player_name": "Ezekiel Elliott",
+            "team": "FA",
+            "pos": "RB55",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": -23
+        },
+        {
+            "rk": 161,
+            "tiers": 11,
+            "player_name": "Roschon Johnson",
+            "team": "CHI",
+            "pos": "RB56",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -4
+        },
+        {
+            "rk": 162,
+            "tiers": 11,
+            "player_name": "Sam LaPorta",
+            "team": "DET",
+            "pos": "TE20",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 163,
+            "tiers": 11,
+            "player_name": "Gus Edwards",
+            "team": "BAL",
+            "pos": "RB57",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+25"
+        },
+        {
+            "rk": 164,
+            "tiers": 11,
+            "player_name": "Kenny Pickett",
+            "team": "PIT",
+            "pos": "QB21",
+            "bye_week": 6,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -18
+        },
+        {
+            "rk": 165,
+            "tiers": 11,
+            "player_name": "Curtis Samuel",
+            "team": "WAS",
+            "pos": "WR67",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+64"
+        },
+        {
+            "rk": 166,
+            "tiers": 11,
+            "player_name": "Clyde Edwards-Helaire",
+            "team": "KC",
+            "pos": "RB58",
+            "bye_week": 10,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 167,
+            "tiers": 11,
+            "player_name": "Irv Smith Jr.",
+            "team": "CIN",
+            "pos": "TE21",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+8"
+        },
+        {
+            "rk": 168,
+            "tiers": 11,
+            "player_name": "Jordan Love",
+            "team": "GB",
+            "pos": "QB22",
+            "bye_week": 6,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -15
+        },
+        {
+            "rk": 169,
+            "tiers": 11,
+            "player_name": "Alec Pierce",
+            "team": "IND",
+            "pos": "WR68",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+38"
+        },
+        {
+            "rk": 170,
+            "tiers": 11,
+            "player_name": "San Francisco 49ers",
+            "team": "SF",
+            "pos": "DST1",
+            "bye_week": 9,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": -45
+        },
+        {
+            "rk": 171,
+            "tiers": 11,
+            "player_name": "Van Jefferson",
+            "team": "LAR",
+            "pos": "WR69",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+43"
+        },
+        {
+            "rk": 172,
+            "tiers": 11,
+            "player_name": "Isaiah Hodgins",
+            "team": "NYG",
+            "pos": "WR70",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+48"
+        },
+        {
+            "rk": 173,
+            "tiers": 11,
+            "player_name": "Trey McBride",
+            "team": "ARI",
+            "pos": "TE22",
+            "bye_week": 14,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+77"
+        },
+        {
+            "rk": 174,
+            "tiers": 11,
+            "player_name": "Hunter Renfrow",
+            "team": "LV",
+            "pos": "WR71",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+64"
+        },
+        {
+            "rk": 175,
+            "tiers": 11,
+            "player_name": "Rashee Rice",
+            "team": "KC",
+            "pos": "WR72",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+8"
+        },
+        {
+            "rk": 176,
+            "tiers": 11,
+            "player_name": "Dallas Cowboys",
+            "team": "DAL",
+            "pos": "DST2",
+            "bye_week": 7,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -38
+        },
+        {
+            "rk": 177,
+            "tiers": 11,
+            "player_name": "Marquez Valdes-Scantling",
+            "team": "KC",
+            "pos": "WR73",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+42"
+        },
+        {
+            "rk": 178,
+            "tiers": 11,
+            "player_name": "Marvin Mims Jr.",
+            "team": "DEN",
+            "pos": "WR74",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+44"
+        },
+        {
+            "rk": 179,
+            "tiers": 11,
+            "player_name": "Buffalo Bills",
+            "team": "BUF",
+            "pos": "DST3",
+            "bye_week": 13,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": -34
+        },
+        {
+            "rk": 180,
+            "tiers": 11,
+            "player_name": "Jayden Reed",
+            "team": "GB",
+            "pos": "WR75",
+            "bye_week": 6,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+36"
+        },
+        {
+            "rk": 181,
+            "tiers": 11,
+            "player_name": "Jonathan Mingo",
+            "team": "CAR",
+            "pos": "WR76",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -10
+        },
+        {
+            "rk": 182,
+            "tiers": 11,
+            "player_name": "Hunter Henry",
+            "team": "NE",
+            "pos": "TE23",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+12"
+        },
+        {
+            "rk": 183,
+            "tiers": 11,
+            "player_name": "Philadelphia Eagles",
+            "team": "PHI",
+            "pos": "DST4",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -50
+        },
+        {
+            "rk": 184,
+            "tiers": 11,
+            "player_name": "Bryce Young",
+            "team": "CAR",
+            "pos": "QB23",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -43
+        },
+        {
+            "rk": 185,
+            "tiers": 11,
+            "player_name": "Brock Purdy",
+            "team": "SF",
+            "pos": "QB24",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -41
+        },
+        {
+            "rk": 186,
+            "tiers": 11,
+            "player_name": "Zamir White",
+            "team": "LV",
+            "pos": "RB59",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+16"
+        },
+        {
+            "rk": 187,
+            "tiers": 11,
+            "player_name": "Hayden Hurst",
+            "team": "CAR",
+            "pos": "TE24",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+6"
+        },
+        {
+            "rk": 188,
+            "tiers": 11,
+            "player_name": "Wan'Dale Robinson",
+            "team": "NYG",
+            "pos": "WR77",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+36"
+        },
+        {
+            "rk": 189,
+            "tiers": 11,
+            "player_name": "John Metchie III",
+            "team": "HOU",
+            "pos": "WR78",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+29"
+        },
+        {
+            "rk": 190,
+            "tiers": 11,
+            "player_name": "New York Jets",
+            "team": "NYJ",
+            "pos": "DST5",
+            "bye_week": 7,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -17
+        },
+        {
+            "rk": 191,
+            "tiers": 11,
+            "player_name": "New England Patriots",
+            "team": "NE",
+            "pos": "DST6",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -28
+        },
+        {
+            "rk": 192,
+            "tiers": 11,
+            "player_name": "Taysom Hill",
+            "team": "NO",
+            "pos": "TE25",
+            "bye_week": 11,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -16
+        },
+        {
+            "rk": 193,
+            "tiers": 11,
+            "player_name": "Kyler Murray",
+            "team": "ARI",
+            "pos": "QB25",
+            "bye_week": 14,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -24
+        },
+        {
+            "rk": 194,
+            "tiers": 11,
+            "player_name": "Leonard Fournette",
+            "team": "FA",
+            "pos": "RB60",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": -14
+        },
+        {
+            "rk": 195,
+            "tiers": 11,
+            "player_name": "Parris Campbell",
+            "team": "NYG",
+            "pos": "WR79",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+17"
+        },
+        {
+            "rk": 196,
+            "tiers": 11,
+            "player_name": "Baltimore Ravens",
+            "team": "BAL",
+            "pos": "DST7",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -22
+        },
+        {
+            "rk": 197,
+            "tiers": 11,
+            "player_name": "Darius Slayton",
+            "team": "NYG",
+            "pos": "WR80",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+73"
+        },
+        {
+            "rk": 198,
+            "tiers": 11,
+            "player_name": "Chase Brown",
+            "team": "CIN",
+            "pos": "RB61",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+13"
+        },
+        {
+            "rk": 199,
+            "tiers": 12,
+            "player_name": "Tyjae Spears",
+            "team": "TEN",
+            "pos": "RB62",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+1"
+        },
+        {
+            "rk": 200,
+            "tiers": 12,
+            "player_name": "Joshua Palmer",
+            "team": "LAC",
+            "pos": "WR81",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+107"
+        },
+        {
+            "rk": 201,
+            "tiers": 12,
+            "player_name": "Dawson Knox",
+            "team": "BUF",
+            "pos": "TE26",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -12
+        },
+        {
+            "rk": 202,
+            "tiers": 12,
+            "player_name": "DeVante Parker",
+            "team": "NE",
+            "pos": "WR82",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+67"
+        },
+        {
+            "rk": 203,
+            "tiers": 12,
+            "player_name": "Chase Claypool",
+            "team": "CHI",
+            "pos": "WR83",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+88"
+        },
+        {
+            "rk": 204,
+            "tiers": 12,
+            "player_name": "Denver Broncos",
+            "team": "DEN",
+            "pos": "DST8",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 205,
+            "tiers": 12,
+            "player_name": "Michael Carter",
+            "team": "NYJ",
+            "pos": "RB63",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -9
+        },
+        {
+            "rk": 206,
+            "tiers": 12,
+            "player_name": "Tyquan Thornton",
+            "team": "NE",
+            "pos": "WR84",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+92"
+        },
+        {
+            "rk": 207,
+            "tiers": 12,
+            "player_name": "Jalin Hyatt",
+            "team": "NYG",
+            "pos": "WR85",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -2
+        },
+        {
+            "rk": 208,
+            "tiers": 12,
+            "player_name": "Terrace Marshall Jr.",
+            "team": "CAR",
+            "pos": "WR86",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+86"
+        },
+        {
+            "rk": 209,
+            "tiers": 12,
+            "player_name": "Khalil Shakir",
+            "team": "BUF",
+            "pos": "WR87",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+87"
+        },
+        {
+            "rk": 210,
+            "tiers": 12,
+            "player_name": "Robert Woods",
+            "team": "HOU",
+            "pos": "WR88",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+83"
+        },
+        {
+            "rk": 211,
+            "tiers": 12,
+            "player_name": "Kareem Hunt",
+            "team": "FA",
+            "pos": "RB64",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": -34
+        },
+        {
+            "rk": 212,
+            "tiers": 12,
+            "player_name": "Justin Tucker",
+            "team": "BAL",
+            "pos": "K1",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -82
+        },
+        {
+            "rk": 213,
+            "tiers": 12,
+            "player_name": "Mecole Hardman Jr.",
+            "team": "NYJ",
+            "pos": "WR89",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+47"
+        },
+        {
+            "rk": 214,
+            "tiers": 12,
+            "player_name": "Cordarrelle Patterson",
+            "team": "ATL",
+            "pos": "RB65",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -47
+        },
+        {
+            "rk": 215,
+            "tiers": 12,
+            "player_name": "Josh Downs",
+            "team": "IND",
+            "pos": "WR90",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+48"
+        },
+        {
+            "rk": 216,
+            "tiers": 12,
+            "player_name": "Mac Jones",
+            "team": "NE",
+            "pos": "QB26",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -29
+        },
+        {
+            "rk": 217,
+            "tiers": 12,
+            "player_name": "Joshua Kelley",
+            "team": "LAC",
+            "pos": "RB66",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+29"
+        },
+        {
+            "rk": 218,
+            "tiers": 12,
+            "player_name": "Noah Fant",
+            "team": "SEA",
+            "pos": "TE27",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+49"
+        },
+        {
+            "rk": 219,
+            "tiers": 12,
+            "player_name": "Daniel Carlson",
+            "team": "LV",
+            "pos": "K2",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -71
+        },
+        {
+            "rk": 220,
+            "tiers": 12,
+            "player_name": "Michael Mayer",
+            "team": "LV",
+            "pos": "TE28",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -39
+        },
+        {
+            "rk": 221,
+            "tiers": 12,
+            "player_name": "Tyler Bass",
+            "team": "BUF",
+            "pos": "K3",
+            "bye_week": 13,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -59
+        },
+        {
+            "rk": 222,
+            "tiers": 12,
+            "player_name": "Ryan Tannehill",
+            "team": "TEN",
+            "pos": "QB27",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 223,
+            "tiers": 12,
+            "player_name": "Allen Robinson II",
+            "team": "PIT",
+            "pos": "WR91",
+            "bye_week": 6,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+57"
+        },
+        {
+            "rk": 224,
+            "tiers": 12,
+            "player_name": "Zach Evans",
+            "team": "LAR",
+            "pos": "RB67",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+21"
+        },
+        {
+            "rk": 225,
+            "tiers": 12,
+            "player_name": "Corey Davis",
+            "team": "NYJ",
+            "pos": "WR92",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+99"
+        },
+        {
+            "rk": 226,
+            "tiers": 12,
+            "player_name": "Harrison Butker",
+            "team": "KC",
+            "pos": "K4",
+            "bye_week": 10,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -58
+        },
+        {
+            "rk": 227,
+            "tiers": 12,
+            "player_name": "Kansas City Chiefs",
+            "team": "KC",
+            "pos": "DST9",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+9"
+        },
+        {
+            "rk": 228,
+            "tiers": 12,
+            "player_name": "New Orleans Saints",
+            "team": "NO",
+            "pos": "DST10",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -2
+        },
+        {
+            "rk": 229,
+            "tiers": 12,
+            "player_name": "Pittsburgh Steelers",
+            "team": "PIT",
+            "pos": "DST11",
+            "bye_week": 6,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -19
+        },
+        {
+            "rk": 230,
+            "tiers": 12,
+            "player_name": "Jimmy Garoppolo",
+            "team": "LV",
+            "pos": "QB28",
+            "bye_week": 13,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -45
+        },
+        {
+            "rk": 231,
+            "tiers": 12,
+            "player_name": "C.J. Stroud",
+            "team": "HOU",
+            "pos": "QB29",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -82
+        },
+        {
+            "rk": 232,
+            "tiers": 12,
+            "player_name": "Israel Abanikanda",
+            "team": "NYJ",
+            "pos": "RB68",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+44"
+        },
+        {
+            "rk": 233,
+            "tiers": 12,
+            "player_name": "Evan McPherson",
+            "team": "CIN",
+            "pos": "K5",
+            "bye_week": 7,
+            "sos_season": "0 out of 5 stars",
+            "ecr_vs._adp": -72
+        },
+        {
+            "rk": 234,
+            "tiers": 12,
+            "player_name": "Pierre Strong Jr.",
+            "team": "NE",
+            "pos": "RB69",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+23"
+        },
+        {
+            "rk": 235,
+            "tiers": 12,
+            "player_name": "Cincinnati Bengals",
+            "team": "CIN",
+            "pos": "DST12",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+16"
+        },
+        {
+            "rk": 236,
+            "tiers": 12,
+            "player_name": "Jake Ferguson",
+            "team": "DAL",
+            "pos": "TE29",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -30
+        },
+        {
+            "rk": 237,
+            "tiers": 12,
+            "player_name": "Chase Edmonds",
+            "team": "TB",
+            "pos": "RB70",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+29"
+        },
+        {
+            "rk": 238,
+            "tiers": 12,
+            "player_name": "Jelani Woods",
+            "team": "IND",
+            "pos": "TE30",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+26"
+        },
+        {
+            "rk": 239,
+            "tiers": 12,
+            "player_name": "Russell Gage",
+            "team": "TB",
+            "pos": "WR93",
+            "bye_week": 5,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+91"
+        },
+        {
+            "rk": 240,
+            "tiers": 12,
+            "player_name": "Richie James Jr.",
+            "team": "KC",
+            "pos": "WR94",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+37"
+        },
+        {
+            "rk": 241,
+            "tiers": 12,
+            "player_name": "Isaiah Likely",
+            "team": "BAL",
+            "pos": "TE31",
+            "bye_week": 13,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -7
+        },
+        {
+            "rk": 242,
+            "tiers": 12,
+            "player_name": "Zach Ertz",
+            "team": "ARI",
+            "pos": "TE32",
+            "bye_week": 14,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -52
+        },
+        {
+            "rk": 243,
+            "tiers": 12,
+            "player_name": "Washington Commanders",
+            "team": "WAS",
+            "pos": "DST13",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -8
+        },
+        {
+            "rk": 244,
+            "tiers": 13,
+            "player_name": "Miami Dolphins",
+            "team": "MIA",
+            "pos": "DST14",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -58
+        },
+        {
+            "rk": 245,
+            "tiers": 13,
+            "player_name": "Younghoe Koo",
+            "team": "ATL",
+            "pos": "K6",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -53
+        },
+        {
+            "rk": 246,
+            "tiers": 13,
+            "player_name": "Tampa Bay Buccaneers",
+            "team": "TB",
+            "pos": "DST15",
+            "bye_week": 5,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+25"
+        },
+        {
+            "rk": 247,
+            "tiers": 13,
+            "player_name": "Los Angeles Chargers",
+            "team": "LAC",
+            "pos": "DST16",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+62"
+        },
+        {
+            "rk": 248,
+            "tiers": 13,
+            "player_name": "Cleveland Browns",
+            "team": "CLE",
+            "pos": "DST17",
+            "bye_week": 5,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -9
+        },
+        {
+            "rk": 249,
+            "tiers": 13,
+            "player_name": "Luke Musgrave",
+            "team": "GB",
+            "pos": "TE33",
+            "bye_week": 6,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -5
+        },
+        {
+            "rk": 250,
+            "tiers": 13,
+            "player_name": "Ty Chandler",
+            "team": "MIN",
+            "pos": "RB71",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -3
+        },
+        {
+            "rk": 251,
+            "tiers": 13,
+            "player_name": "Jason Sanders",
+            "team": "MIA",
+            "pos": "K7",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -11
+        },
+        {
+            "rk": 252,
+            "tiers": 13,
+            "player_name": "Mack Hollins",
+            "team": "ATL",
+            "pos": "WR95",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+68"
+        },
+        {
+            "rk": 253,
+            "tiers": 13,
+            "player_name": "Desmond Ridder",
+            "team": "ATL",
+            "pos": "QB30",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -21
+        },
+        {
+            "rk": 254,
+            "tiers": 13,
+            "player_name": "Josh Reynolds",
+            "team": "DET",
+            "pos": "WR96",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 255,
+            "tiers": 13,
+            "player_name": "Marvin Jones Jr.",
+            "team": "DET",
+            "pos": "WR97",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+56"
+        },
+        {
+            "rk": 256,
+            "tiers": 13,
+            "player_name": "Brandon McManus",
+            "team": "JAC",
+            "pos": "K8",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -41
+        },
+        {
+            "rk": 257,
+            "tiers": 13,
+            "player_name": "Sam Howell",
+            "team": "WAS",
+            "pos": "QB31",
+            "bye_week": 14,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": -44
+        },
+        {
+            "rk": 258,
+            "tiers": 13,
+            "player_name": "Green Bay Packers",
+            "team": "GB",
+            "pos": "DST18",
+            "bye_week": 6,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": 0
+        },
+        {
+            "rk": 259,
+            "tiers": 13,
+            "player_name": "Cade Otton",
+            "team": "TB",
+            "pos": "TE34",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+20"
+        },
+        {
+            "rk": 260,
+            "tiers": 13,
+            "player_name": "Jacksonville Jaguars",
+            "team": "JAC",
+            "pos": "DST19",
+            "bye_week": 9,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -35
+        },
+        {
+            "rk": 261,
+            "tiers": 13,
+            "player_name": "Jake Elliott",
+            "team": "PHI",
+            "pos": "K9",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -53
+        },
+        {
+            "rk": 262,
+            "tiers": 13,
+            "player_name": "DeWayne McBride",
+            "team": "MIN",
+            "pos": "RB72",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 263,
+            "tiers": 13,
+            "player_name": "Nick Folk",
+            "team": "NE",
+            "pos": "K10",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -26
+        },
+        {
+            "rk": 264,
+            "tiers": 13,
+            "player_name": "Jason Myers",
+            "team": "SEA",
+            "pos": "K11",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -66
+        },
+        {
+            "rk": 265,
+            "tiers": 13,
+            "player_name": "Cedric Tillman",
+            "team": "CLE",
+            "pos": "WR98",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+58"
+        },
+        {
+            "rk": 266,
+            "tiers": 13,
+            "player_name": "Evan Hull",
+            "team": "IND",
+            "pos": "RB73",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+40"
+        },
+        {
+            "rk": 267,
+            "tiers": 13,
+            "player_name": "Justyn Ross",
+            "team": "KC",
+            "pos": "WR99",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 268,
+            "tiers": 13,
+            "player_name": "Indianapolis Colts",
+            "team": "IND",
+            "pos": "DST20",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -3
+        },
+        {
+            "rk": 269,
+            "tiers": 13,
+            "player_name": "Matt Gay",
+            "team": "IND",
+            "pos": "K12",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -20
+        },
+        {
+            "rk": 270,
+            "tiers": 13,
+            "player_name": "Graham Gano",
+            "team": "NYG",
+            "pos": "K13",
+            "bye_week": 13,
+            "sos_season": "0 out of 5 stars",
+            "ecr_vs._adp": -11
+        },
+        {
+            "rk": 271,
+            "tiers": 13,
+            "player_name": "D'Ernest Johnson",
+            "team": "JAC",
+            "pos": "RB74",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+29"
+        },
+        {
+            "rk": 272,
+            "tiers": 13,
+            "player_name": "Logan Thomas",
+            "team": "WAS",
+            "pos": "TE35",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+3"
+        },
+        {
+            "rk": 273,
+            "tiers": 13,
+            "player_name": "Tank Dell",
+            "team": "HOU",
+            "pos": "WR100",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -20
+        },
+        {
+            "rk": 274,
+            "tiers": 13,
+            "player_name": "Sterling Shepard",
+            "team": "NYG",
+            "pos": "WR101",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -2
+        },
+        {
+            "rk": 275,
+            "tiers": 13,
+            "player_name": "Isaiah Spiller",
+            "team": "LAC",
+            "pos": "RB75",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+41"
+        },
+        {
+            "rk": 276,
+            "tiers": 13,
+            "player_name": "Greg Joseph",
+            "team": "MIN",
+            "pos": "K14",
+            "bye_week": 13,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "+7"
+        },
+        {
+            "rk": 277,
+            "tiers": 13,
+            "player_name": "Malik Davis",
+            "team": "DAL",
+            "pos": "RB76",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+26"
+        },
+        {
+            "rk": 278,
+            "tiers": 13,
+            "player_name": "Tyler Conklin",
+            "team": "NYJ",
+            "pos": "TE36",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -75
+        },
+        {
+            "rk": 279,
+            "tiers": 13,
+            "player_name": "Carolina Panthers",
+            "team": "CAR",
+            "pos": "DST21",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+13"
+        },
+        {
+            "rk": 280,
+            "tiers": 13,
+            "player_name": "Kyren Williams",
+            "team": "LAR",
+            "pos": "RB77",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+21"
+        },
+        {
+            "rk": 281,
+            "tiers": 13,
+            "player_name": "Deuce Vaughn",
+            "team": "DAL",
+            "pos": "RB78",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -27
+        },
+        {
+            "rk": 282,
+            "tiers": 13,
+            "player_name": "Wil Lutz",
+            "team": "NO",
+            "pos": "K15",
+            "bye_week": 11,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -9
+        },
+        {
+            "rk": 283,
+            "tiers": 13,
+            "player_name": "Latavius Murray",
+            "team": "BUF",
+            "pos": "RB79",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+36"
+        },
+        {
+            "rk": 284,
+            "tiers": 13,
+            "player_name": "Greg Zuerlein",
+            "team": "NYJ",
+            "pos": "K16",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -36
+        },
+        {
+            "rk": 285,
+            "tiers": 13,
+            "player_name": "Quez Watkins",
+            "team": "PHI",
+            "pos": "WR102",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 286,
+            "tiers": 13,
+            "player_name": "Kendrick Bourne",
+            "team": "NE",
+            "pos": "WR103",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 287,
+            "tiers": 13,
+            "player_name": "Nick Westbrook-Ikhine",
+            "team": "TEN",
+            "pos": "WR104",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 288,
+            "tiers": 13,
+            "player_name": "Eric Gray",
+            "team": "NYG",
+            "pos": "RB80",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+17"
+        },
+        {
+            "rk": 289,
+            "tiers": 14,
+            "player_name": "Zack Moss",
+            "team": "IND",
+            "pos": "RB81",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+8"
+        },
+        {
+            "rk": 290,
+            "tiers": 14,
+            "player_name": "Zonovan Knight",
+            "team": "NYJ",
+            "pos": "RB82",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 291,
+            "tiers": 14,
+            "player_name": "Los Angeles Rams",
+            "team": "LAR",
+            "pos": "DST22",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -10
+        },
+        {
+            "rk": 292,
+            "tiers": 14,
+            "player_name": "Baker Mayfield",
+            "team": "TB",
+            "pos": "QB32",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -49
+        },
+        {
+            "rk": 293,
+            "tiers": 14,
+            "player_name": "Kayshon Boutte",
+            "team": "NE",
+            "pos": "WR105",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+35"
+        },
+        {
+            "rk": 294,
+            "tiers": 14,
+            "player_name": "Matt Breida",
+            "team": "NYG",
+            "pos": "RB83",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "+18"
+        },
+        {
+            "rk": 295,
+            "tiers": 14,
+            "player_name": "Puka Nacua",
+            "team": "LAR",
+            "pos": "WR106",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -13
+        },
+        {
+            "rk": 296,
+            "tiers": 14,
+            "player_name": "Greg Dortch",
+            "team": "ARI",
+            "pos": "WR107",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+14"
+        },
+        {
+            "rk": 297,
+            "tiers": 14,
+            "player_name": "Laviska Shenault Jr.",
+            "team": "CAR",
+            "pos": "WR108",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 298,
+            "tiers": 14,
+            "player_name": "New York Giants",
+            "team": "NYG",
+            "pos": "DST23",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -57
+        },
+        {
+            "rk": 299,
+            "tiers": 14,
+            "player_name": "Daniel Bellinger",
+            "team": "NYG",
+            "pos": "TE37",
+            "bye_week": 13,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "+22"
+        },
+        {
+            "rk": 300,
+            "tiers": 14,
+            "player_name": "Jordan Mason",
+            "team": "SF",
+            "pos": "RB84",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "+35"
+        },
+        {
+            "rk": 301,
+            "tiers": 14,
+            "player_name": "Boston Scott",
+            "team": "PHI",
+            "pos": "RB85",
+            "bye_week": 10,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 302,
+            "tiers": 14,
+            "player_name": "Austin Hooper",
+            "team": "LV",
+            "pos": "TE38",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 303,
+            "tiers": 14,
+            "player_name": "Seattle Seahawks",
+            "team": "SEA",
+            "pos": "DST24",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -86
+        },
+        {
+            "rk": 304,
+            "tiers": 14,
+            "player_name": "Isaiah McKenzie",
+            "team": "IND",
+            "pos": "WR109",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 305,
+            "tiers": 14,
+            "player_name": "Ronald Jones II",
+            "team": "DAL",
+            "pos": "RB86",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+13"
+        },
+        {
+            "rk": 306,
+            "tiers": 14,
+            "player_name": "Keaontay Ingram",
+            "team": "ARI",
+            "pos": "RB87",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -11
+        },
+        {
+            "rk": 307,
+            "tiers": 14,
+            "player_name": "Detroit Lions",
+            "team": "DET",
+            "pos": "DST25",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -45
+        },
+        {
+            "rk": 308,
+            "tiers": 14,
+            "player_name": "Sean Tucker",
+            "team": "TB",
+            "pos": "RB88",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 309,
+            "tiers": 14,
+            "player_name": "Michael Wilson",
+            "team": "ARI",
+            "pos": "WR110",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -1
+        },
+        {
+            "rk": 310,
+            "tiers": 14,
+            "player_name": "Riley Patterson",
+            "team": "DET",
+            "pos": "K17",
+            "bye_week": 9,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": -42
+        },
+        {
+            "rk": 311,
+            "tiers": 14,
+            "player_name": "Luke Schoonmaker",
+            "team": "DAL",
+            "pos": "TE39",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "+2"
+        },
+        {
+            "rk": 312,
+            "tiers": 14,
+            "player_name": "Braxton Berrios",
+            "team": "MIA",
+            "pos": "WR111",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 313,
+            "tiers": 14,
+            "player_name": "Chris Boswell",
+            "team": "PIT",
+            "pos": "K18",
+            "bye_week": 6,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -27
+        },
+        {
+            "rk": 314,
+            "tiers": 14,
+            "player_name": "Matt Prater",
+            "team": "ARI",
+            "pos": "K19",
+            "bye_week": 14,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -59
+        },
+        {
+            "rk": 315,
+            "tiers": 14,
+            "player_name": "Tim Patrick",
+            "team": "DEN",
+            "pos": "WR112",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -73
+        },
+        {
+            "rk": 316,
+            "tiers": 14,
+            "player_name": "David Bell",
+            "team": "CLE",
+            "pos": "WR113",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 317,
+            "tiers": 14,
+            "player_name": "James Robinson",
+            "team": "NYG",
+            "pos": "RB89",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -32
+        },
+        {
+            "rk": 318,
+            "tiers": 14,
+            "player_name": "Tennessee Titans",
+            "team": "TEN",
+            "pos": "DST26",
+            "bye_week": 7,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 319,
+            "tiers": 14,
+            "player_name": "JaMycal Hasty",
+            "team": "JAC",
+            "pos": "RB90",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 320,
+            "tiers": 14,
+            "player_name": "Tutu Atwell",
+            "team": "LAR",
+            "pos": "WR114",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 321,
+            "tiers": 14,
+            "player_name": "Deneric Prince",
+            "team": "KC",
+            "pos": "RB91",
+            "bye_week": 10,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -6
+        },
+        {
+            "rk": 322,
+            "tiers": 14,
+            "player_name": "Dustin Hopkins",
+            "team": "LAC",
+            "pos": "K20",
+            "bye_week": 5,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 323,
+            "tiers": 14,
+            "player_name": "Kyle Philips",
+            "team": "TEN",
+            "pos": "WR115",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 324,
+            "tiers": 14,
+            "player_name": "Devin Duvernay",
+            "team": "BAL",
+            "pos": "WR116",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 325,
+            "tiers": 14,
+            "player_name": "Trey Lance",
+            "team": "SF",
+            "pos": "QB33",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -128
+        },
+        {
+            "rk": 326,
+            "tiers": 14,
+            "player_name": "Robbie Chosen",
+            "team": "MIA",
+            "pos": "WR117",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 327,
+            "tiers": 14,
+            "player_name": "Albert Okwuegbunam",
+            "team": "DEN",
+            "pos": "TE40",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 328,
+            "tiers": 14,
+            "player_name": "Jake Moody",
+            "team": "SF",
+            "pos": "K21",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -100
+        },
+        {
+            "rk": 329,
+            "tiers": 14,
+            "player_name": "KJ Hamler",
+            "team": "FA",
+            "pos": "WR118",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 330,
+            "tiers": 14,
+            "player_name": "Deon Jackson",
+            "team": "IND",
+            "pos": "RB92",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -31
+        },
+        {
+            "rk": 331,
+            "tiers": 14,
+            "player_name": "Robbie Gould",
+            "team": "FA",
+            "pos": "K22",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": -42
+        },
+        {
+            "rk": 332,
+            "tiers": 14,
+            "player_name": "Trayveon Williams",
+            "team": "CIN",
+            "pos": "RB93",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -5
+        },
+        {
+            "rk": 333,
+            "tiers": 14,
+            "player_name": "Ryan Succop",
+            "team": "FA",
+            "pos": "K23",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 334,
+            "tiers": 14,
+            "player_name": "Minnesota Vikings",
+            "team": "MIN",
+            "pos": "DST27",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -104
+        },
+        {
+            "rk": 335,
+            "tiers": 14,
+            "player_name": "Hassan Haskins",
+            "team": "TEN",
+            "pos": "RB94",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 336,
+            "tiers": 14,
+            "player_name": "Ka'imi Fairbairn",
+            "team": "HOU",
+            "pos": "K24",
+            "bye_week": 7,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 337,
+            "tiers": 15,
+            "player_name": "Cairo Santos",
+            "team": "CHI",
+            "pos": "K25",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 338,
+            "tiers": 15,
+            "player_name": "Chris Rodriguez Jr.",
+            "team": "WAS",
+            "pos": "RB95",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 339,
+            "tiers": 15,
+            "player_name": "Jonnu Smith",
+            "team": "ATL",
+            "pos": "TE41",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 340,
+            "tiers": 15,
+            "player_name": "Tyler Scott",
+            "team": "CHI",
+            "pos": "WR119",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 341,
+            "tiers": 15,
+            "player_name": "Brett Maher",
+            "team": "DEN",
+            "pos": "K26",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -118
+        },
+        {
+            "rk": 342,
+            "tiers": 15,
+            "player_name": "Cade York",
+            "team": "CLE",
+            "pos": "K27",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -11
+        },
+        {
+            "rk": 343,
+            "tiers": 15,
+            "player_name": "Tyrion Davis-Price",
+            "team": "SF",
+            "pos": "RB96",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 344,
+            "tiers": 15,
+            "player_name": "Atlanta Falcons",
+            "team": "ATL",
+            "pos": "DST28",
+            "bye_week": 11,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -111
+        },
+        {
+            "rk": 345,
+            "tiers": 15,
+            "player_name": "Robert Tonyan",
+            "team": "CHI",
+            "pos": "TE42",
+            "bye_week": 13,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 346,
+            "tiers": 15,
+            "player_name": "Kenny McIntosh",
+            "team": "SEA",
+            "pos": "RB97",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -32
+        },
+        {
+            "rk": 347,
+            "tiers": 15,
+            "player_name": "Melvin Gordon III",
+            "team": "BAL",
+            "pos": "RB98",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -30
+        },
+        {
+            "rk": 348,
+            "tiers": 15,
+            "player_name": "Deonte Harty",
+            "team": "BUF",
+            "pos": "WR120",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 349,
+            "tiers": 15,
+            "player_name": "Ben Skowronek",
+            "team": "LAR",
+            "pos": "WR121",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 350,
+            "tiers": 15,
+            "player_name": "Darnell Washington",
+            "team": "PIT",
+            "pos": "TE43",
+            "bye_week": 6,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -28
+        },
+        {
+            "rk": 351,
+            "tiers": 15,
+            "player_name": "Will Levis",
+            "team": "TEN",
+            "pos": "QB34",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -77
+        },
+        {
+            "rk": 352,
+            "tiers": 15,
+            "player_name": "Cameron Dicker",
+            "team": "LAC",
+            "pos": "K28",
+            "bye_week": 5,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -125
+        },
+        {
+            "rk": 353,
+            "tiers": 15,
+            "player_name": "Gardner Minshew II",
+            "team": "IND",
+            "pos": "QB35",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -75
+        },
+        {
+            "rk": 354,
+            "tiers": 15,
+            "player_name": "Michael Badgley",
+            "team": "WAS",
+            "pos": "K29",
+            "bye_week": 14,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -102
+        },
+        {
+            "rk": 355,
+            "tiers": 15,
+            "player_name": "Eddy Pineiro",
+            "team": "CAR",
+            "pos": "K30",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -65
+        },
+        {
+            "rk": 356,
+            "tiers": 15,
+            "player_name": "Nelson Agholor",
+            "team": "BAL",
+            "pos": "WR122",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 357,
+            "tiers": 15,
+            "player_name": "Chicago Bears",
+            "team": "CHI",
+            "pos": "DST29",
+            "bye_week": 13,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": -126
+        },
+        {
+            "rk": 358,
+            "tiers": 15,
+            "player_name": "Chris Evans",
+            "team": "CIN",
+            "pos": "RB99",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 359,
+            "tiers": 15,
+            "player_name": "DeeJay Dallas",
+            "team": "SEA",
+            "pos": "RB100",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 360,
+            "tiers": 15,
+            "player_name": "Arizona Cardinals",
+            "team": "ARI",
+            "pos": "DST30",
+            "bye_week": 14,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 361,
+            "tiers": 15,
+            "player_name": "A.T. Perry",
+            "team": "NO",
+            "pos": "WR123",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 362,
+            "tiers": 15,
+            "player_name": "Xavier Hutchinson",
+            "team": "HOU",
+            "pos": "WR124",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -37
+        },
+        {
+            "rk": 363,
+            "tiers": 15,
+            "player_name": "Raheem Blackshear",
+            "team": "CAR",
+            "pos": "RB101",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -31
+        },
+        {
+            "rk": 364,
+            "tiers": 15,
+            "player_name": "Olamide Zaccheaus",
+            "team": "PHI",
+            "pos": "WR125",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 365,
+            "tiers": 15,
+            "player_name": "Chris Moore",
+            "team": "TEN",
+            "pos": "WR126",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 366,
+            "tiers": 15,
+            "player_name": "Kene Nwangwu",
+            "team": "MIN",
+            "pos": "RB102",
+            "bye_week": 13,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 367,
+            "tiers": 15,
+            "player_name": "Mason Crosby",
+            "team": "FA",
+            "pos": "K31",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 368,
+            "tiers": 15,
+            "player_name": "Jamison Crowder",
+            "team": "NYG",
+            "pos": "WR127",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 369,
+            "tiers": 15,
+            "player_name": "Ameer Abdullah",
+            "team": "LV",
+            "pos": "RB103",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 370,
+            "tiers": 15,
+            "player_name": "Noah Gray",
+            "team": "KC",
+            "pos": "TE44",
+            "bye_week": 10,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 371,
+            "tiers": 15,
+            "player_name": "Tucker Kraft",
+            "team": "GB",
+            "pos": "TE45",
+            "bye_week": 6,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 372,
+            "tiers": 15,
+            "player_name": "Colt McCoy",
+            "team": "ARI",
+            "pos": "QB36",
+            "bye_week": 14,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -84
+        },
+        {
+            "rk": 373,
+            "tiers": 15,
+            "player_name": "Jauan Jennings",
+            "team": "SF",
+            "pos": "WR128",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 374,
+            "tiers": 15,
+            "player_name": "Charlie Jones",
+            "team": "CIN",
+            "pos": "WR129",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 375,
+            "tiers": 15,
+            "player_name": "Ty Montgomery",
+            "team": "NE",
+            "pos": "RB104",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 376,
+            "tiers": 15,
+            "player_name": "Sam Darnold",
+            "team": "SF",
+            "pos": "QB37",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 377,
+            "tiers": 15,
+            "player_name": "Tristan Vizcaino",
+            "team": "DAL",
+            "pos": "K32",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 378,
+            "tiers": 15,
+            "player_name": "Noah Brown",
+            "team": "HOU",
+            "pos": "WR130",
+            "bye_week": 7,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 379,
+            "tiers": 15,
+            "player_name": "Eno Benjamin",
+            "team": "NO",
+            "pos": "RB105",
+            "bye_week": 11,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 380,
+            "tiers": 15,
+            "player_name": "Jacoby Brissett",
+            "team": "WAS",
+            "pos": "QB38",
+            "bye_week": 14,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 381,
+            "tiers": 15,
+            "player_name": "Houston Texans",
+            "team": "HOU",
+            "pos": "DST31",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 382,
+            "tiers": 15,
+            "player_name": "Foster Moreau",
+            "team": "NO",
+            "pos": "TE46",
+            "bye_week": 11,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": -53
+        },
+        {
+            "rk": 383,
+            "tiers": 15,
+            "player_name": "Jameis Winston",
+            "team": "NO",
+            "pos": "QB39",
+            "bye_week": 11,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 384,
+            "tiers": 15,
+            "player_name": "Randall Cobb",
+            "team": "NYJ",
+            "pos": "WR131",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 385,
+            "tiers": 15,
+            "player_name": "Jarvis Landry",
+            "team": "FA",
+            "pos": "WR132",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": -81
+        },
+        {
+            "rk": 386,
+            "tiers": 15,
+            "player_name": "Keaton Mitchell",
+            "team": "BAL",
+            "pos": "RB106",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 387,
+            "tiers": 15,
+            "player_name": "Salvon Ahmed",
+            "team": "MIA",
+            "pos": "RB107",
+            "bye_week": 10,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 388,
+            "tiers": 15,
+            "player_name": "Julio Jones",
+            "team": "FA",
+            "pos": "WR133",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 389,
+            "tiers": 15,
+            "player_name": "Justin Watson",
+            "team": "KC",
+            "pos": "WR134",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 390,
+            "tiers": 15,
+            "player_name": "Donald Parham Jr.",
+            "team": "LAC",
+            "pos": "TE47",
+            "bye_week": 5,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 391,
+            "tiers": 15,
+            "player_name": "Rico Dowdle",
+            "team": "DAL",
+            "pos": "RB108",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 392,
+            "tiers": 15,
+            "player_name": "Parker Washington",
+            "team": "JAC",
+            "pos": "WR135",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 393,
+            "tiers": 15,
+            "player_name": "Las Vegas Raiders",
+            "team": "LV",
+            "pos": "DST32",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 394,
+            "tiers": 15,
+            "player_name": "Elijah Higgins",
+            "team": "MIA",
+            "pos": "TE48",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 395,
+            "tiers": 15,
+            "player_name": "Trent Sherfield",
+            "team": "BUF",
+            "pos": "WR136",
+            "bye_week": 13,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 396,
+            "tiers": 15,
+            "player_name": "Ke'Shawn Vaughn",
+            "team": "TB",
+            "pos": "RB109",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -60
+        },
+        {
+            "rk": 397,
+            "tiers": 15,
+            "player_name": "Rodrigo Blankenship",
+            "team": "TB",
+            "pos": "K33",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 398,
+            "tiers": 15,
+            "player_name": "Mike White",
+            "team": "MIA",
+            "pos": "QB40",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": -111
+        },
+        {
+            "rk": 399,
+            "tiers": 15,
+            "player_name": "Myles Gaskin",
+            "team": "MIA",
+            "pos": "RB110",
+            "bye_week": 10,
+            "sos_season": "1 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 400,
+            "tiers": 15,
+            "player_name": "Kevin Harris",
+            "team": "NE",
+            "pos": "RB111",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 401,
+            "tiers": 15,
+            "player_name": "Harrison Bryant",
+            "team": "CLE",
+            "pos": "TE49",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 402,
+            "tiers": 16,
+            "player_name": "Will Dissly",
+            "team": "SEA",
+            "pos": "TE50",
+            "bye_week": 5,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 403,
+            "tiers": 16,
+            "player_name": "Kyle Trask",
+            "team": "TB",
+            "pos": "QB41",
+            "bye_week": 5,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -119
+        },
+        {
+            "rk": 404,
+            "tiers": 16,
+            "player_name": "Kenyan Drake",
+            "team": "IND",
+            "pos": "RB112",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 405,
+            "tiers": 16,
+            "player_name": "Jalen Tolbert",
+            "team": "DAL",
+            "pos": "WR137",
+            "bye_week": 7,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 406,
+            "tiers": 16,
+            "player_name": "Trey Palmer",
+            "team": "TB",
+            "pos": "WR138",
+            "bye_week": 5,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": -69
+        },
+        {
+            "rk": 407,
+            "tiers": 16,
+            "player_name": "Peyton Hendershot",
+            "team": "DAL",
+            "pos": "TE51",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 408,
+            "tiers": 16,
+            "player_name": "Kylen Granson",
+            "team": "IND",
+            "pos": "TE52",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 409,
+            "tiers": 16,
+            "player_name": "Bailey Zappe",
+            "team": "NE",
+            "pos": "QB42",
+            "bye_week": 11,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 410,
+            "tiers": 16,
+            "player_name": "Kalif Raymond",
+            "team": "DET",
+            "pos": "WR139",
+            "bye_week": 9,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 411,
+            "tiers": 16,
+            "player_name": "Calvin Austin III",
+            "team": "PIT",
+            "pos": "WR140",
+            "bye_week": 6,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 412,
+            "tiers": 16,
+            "player_name": "Adam Trautman",
+            "team": "DEN",
+            "pos": "TE53",
+            "bye_week": 9,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 413,
+            "tiers": 16,
+            "player_name": "Dontrell Hilliard",
+            "team": "FA",
+            "pos": "RB113",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 414,
+            "tiers": 16,
+            "player_name": "Marquez Callaway",
+            "team": "DEN",
+            "pos": "WR141",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 415,
+            "tiers": 16,
+            "player_name": "Brevin Jordan",
+            "team": "HOU",
+            "pos": "TE54",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 416,
+            "tiers": 16,
+            "player_name": "Durham Smythe",
+            "team": "MIA",
+            "pos": "TE55",
+            "bye_week": 10,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 417,
+            "tiers": 16,
+            "player_name": "Mo Alie-Cox",
+            "team": "IND",
+            "pos": "TE56",
+            "bye_week": 11,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 418,
+            "tiers": 16,
+            "player_name": "Darrell Henderson Jr.",
+            "team": "FA",
+            "pos": "RB114",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 419,
+            "tiers": 16,
+            "player_name": "Zane Gonzalez",
+            "team": "SF",
+            "pos": "K34",
+            "bye_week": 9,
+            "sos_season": "2 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 420,
+            "tiers": 16,
+            "player_name": "Joey Slye",
+            "team": "WAS",
+            "pos": "K35",
+            "bye_week": 14,
+            "sos_season": "4 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 421,
+            "tiers": 16,
+            "player_name": "C.J. Uzomah",
+            "team": "NYJ",
+            "pos": "TE57",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 422,
+            "tiers": 16,
+            "player_name": "Darrel Williams",
+            "team": "FA",
+            "pos": "RB115",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 423,
+            "tiers": 16,
+            "player_name": "Justin Jackson",
+            "team": "FA",
+            "pos": "RB116",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 424,
+            "tiers": 16,
+            "player_name": "Craig Reynolds",
+            "team": "DET",
+            "pos": "RB117",
+            "bye_week": 9,
+            "sos_season": "5 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 425,
+            "tiers": 16,
+            "player_name": "Demarcus Robinson",
+            "team": "LAR",
+            "pos": "WR142",
+            "bye_week": 10,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 426,
+            "tiers": 16,
+            "player_name": "Ty Johnson",
+            "team": "FA",
+            "pos": "RB118",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 427,
+            "tiers": 16,
+            "player_name": "Mark Ingram II",
+            "team": "FA",
+            "pos": "RB119",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 428,
+            "tiers": 16,
+            "player_name": "Marlon Mack",
+            "team": "ARI",
+            "pos": "RB120",
+            "bye_week": 14,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 429,
+            "tiers": 16,
+            "player_name": "Rex Burkhead",
+            "team": "FA",
+            "pos": "RB121",
+            "bye_week": "-",
+            "sos_season": "-",
+            "ecr_vs._adp": "-"
+        },
+        {
+            "rk": 430,
+            "tiers": 16,
+            "player_name": "Zack Kuntz",
+            "team": "NYJ",
+            "pos": "TE58",
+            "bye_week": 7,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": -96
+        },
+        {
+            "rk": 431,
+            "tiers": 16,
+            "player_name": "Justice Hill",
+            "team": "BAL",
+            "pos": "RB122",
+            "bye_week": 13,
+            "sos_season": "3 out of 5 stars",
+            "ecr_vs._adp": "-"
+        }
+    ]
+}
