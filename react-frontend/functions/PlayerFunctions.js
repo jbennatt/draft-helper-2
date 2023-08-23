@@ -199,18 +199,42 @@ function afterFirstPick(draftPos, numTeams) {
     const secondRoundPos = numTeams + numTeams - draftPos + 1
     const teams2X = 2 * numTeams
 
-    return (rank, pickNum) => {
-        // find the closest pick that is your pick that's below this rank:
+    return (projectedPick, firstPick) => {
+        // find the closest pick that is your pick that's below this projected pick:
 
         // get the odd and even boundaries, then pick the larger of the two lower bounds
-        const bothBounds = _getPickBoundaries(rank)
-        const lowerEven = draftPos + bothBounds.even.low * teams2X
-        const lowerOdd = secondRoundPos + bothBounds.odd.low * teams2X
+        const bothBounds = _getPickBoundaries(projectedPick)
+        const lowerOdd = draftPos + bothBounds.odd.low * teams2X
+        const lowerEven = secondRoundPos + bothBounds.even.low * teams2X
+
+        // lowerClosest is your pick that is JUST BEFORE the projected pick
         const lowerClosest = lowerEven > lowerOdd ? lowerEven : lowerOdd
 
-        // if your pick below this rank is BEFORE the pick, you can pick this
-        // person up
-        return lowerClosest > pickNum
+        // Essentially, if your next pick is "positive", you can make it--if not,
+        // you can't.
+
+        /*
+         * There are two possible scenarios when finding the lower-closest pick:
+         * 
+         * 1: Your pick, below this projected pick, occurs before the "first pick"
+         * 
+         *  This means that your ACTUAL next pick occurs after this projected 
+         *  pick and thus you will NOT (in theory) be able to draft.
+         * 
+         *  This is: lowerClosest < firstPick --> can't draft--not your pick
+         * 
+         * 2: Your pick, below this projected pick, occurs AFTER the "first pick"
+         * 
+         *  This means that the projected pick occurs after the next pick AND
+         *  after your next projected pick and thus SHOULD be able to be drafted.
+         * 
+         *  This is the boolean below: lowerClosest > firstPick
+         * 
+         * 3: They are equal: we ignore this case because it's special and is
+         *  caught within logic in enrichPlayers function before this would be
+         *  called.
+         */
+        return lowerClosest > firstPick
     }
 }
 
