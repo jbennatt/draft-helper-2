@@ -4,5 +4,4 @@ export const headerFields = [
     { header: 'Team', playerKey: 'team' },
     { header: 'Current', playerKey: 'currentRank' },
     { header: 'Value', playerKey: 'value' }
-    // { header: 'Tier', playerKey: 'tiers' }
 ]
