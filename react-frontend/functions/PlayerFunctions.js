@@ -9,9 +9,13 @@ import { allPositions, flex, wr, rb, te } from "./PlayerLabelFunctions"
  * @param {*} draftPos 
  */
 export function enrichPlayers(allPlayers, draftedMap, pickNum, draftPos, numTeams, resetRank = false) {
-    const _isYourPick = isYourPick(draftPos, numTeams)
-    let playerCount = 0
+    // const _isYourPick = isYourPick(draftPos, numTeams)
+    const _getPickBoundaries = getPickBoundaries(draftPos, numTeams)
+    const _afterFirstPick = afterFirstPick(draftPos, numTeams)
+    let playerCount = 1
     let firstPick = null
+
+    let pickBoundaries = _getPickBoundaries(pickNum)
 
     const enrichedPlayers = allPlayers.map(player => {
         player.drafted = draftedMap.get(player.name)
@@ -20,12 +24,31 @@ export function enrichPlayers(allPlayers, draftedMap, pickNum, draftPos, numTeam
         player.value = resetRank ? 0 : player.value
 
         if (!player.drafted) {
-            player.isYourPick = _isYourPick(pickNum + playerCount++)
-            firstPick = !firstPick ? player.name : firstPick
             if (resetRank) {
                 player.currentRank = playerCount
                 player.value = computeValue(player, pickNum)
             }
+            // player.isYourPick = _isYourPick(pickNum - 1 + player.currentRank)
+            const newBoundaries = _getPickBoundaries(pickNum - 1 + player.currentRank)
+
+            if (newBoundaries.match) {
+                player.isYourPick = true
+                // set pickBoundaries so that the next pick will show as unchanged (
+                // note: could still find an exact match
+
+                // compute for 1 more than above (i.e. remove the -1)
+                pickBoundaries = _getPickBoundaries(pickNum + player.currentRank)
+            } else if (!areBoundariesEqual(newBoundaries.even, pickBoundaries.even) ||
+                !areBoundariesEqual(newBoundaries.odd, pickBoundaries.odd)) {
+                player.isYourPick = true
+                pickBoundaries = newBoundaries
+            } else if (playerCount === 1 && _afterFirstPick(pickNum + player.currentRank - 1, pickNum)) {
+                player.isYourPick = true
+                pickBoundaries = _getPickBoundaries(pickNum + player.currentRank)
+            }
+
+            firstPick = !firstPick ? player.name : firstPick
+            ++playerCount
         }
         return player
     })
@@ -74,8 +97,8 @@ export function initDraftedMap(players) {
 export function togglePlayerDrafted(player, draftedMap, setDraftedMap, pickNum, setPickNum) {
     const drafted = draftedMap.get(player.name)
     if (pickNum && setPickNum) {
-        if (drafted) setPickNum(pickNum - 1)
-        else setPickNum(pickNum + 1)
+        if (drafted && pickNum > 1) setPickNum(pickNum - 1)
+        else if(!drafted) setPickNum(pickNum + 1)
     }
     draftedMap.set(player.name, !drafted)
     setDraftedMap(new Map(draftedMap))
@@ -99,6 +122,64 @@ function isYourPick(draftPos, numTeams) {
     }
 }
 
+function getPickBoundaries(draftPos, numTeams, logging = false) {
+    const secondRoundPos = numTeams + numTeams - draftPos + 1
+    const teams2X = 2 * numTeams
+
+    return pick => {
+        const closestEven = (pick - draftPos) / teams2X
+        const closestOdd = (pick - secondRoundPos) / teams2X
+        // console.log(`pick ${pick} for draft ${draftPos} and ${numTeams} teams: ${closestEven}`)
+        if (logging)
+            console.log(`${pick}: even: ${closestEven} -> [${Math.floor(closestEven)},${Math.ceil(closestEven)}], ${closestOdd} -> odd: [${Math.floor(closestOdd)},${Math.ceil(closestOdd)}]`)
+
+        const match = pick === (draftPos + Math.round(closestEven) * teams2X) ||
+            pick === (secondRoundPos + Math.round(closestOdd) * teams2X)
+
+        return newPickBoundarySet(
+            newPickBoundaries(Math.floor(closestEven), Math.ceil(closestEven)),
+            newPickBoundaries(Math.floor(closestOdd), Math.ceil(closestOdd)),
+            match
+        )
+    }
+}
+
+function afterFirstPick(draftPos, numTeams) {
+    const _getPickBoundaries = getPickBoundaries(draftPos, numTeams, true)
+    const secondRoundPos = numTeams + numTeams - draftPos + 1
+    const teams2X = 2 * numTeams
+
+    return (rank, pickNum) => {
+        const bothBounds = _getPickBoundaries(rank)
+        const lowerEven = draftPos + bothBounds.even.low * teams2X
+        const lowerOdd = secondRoundPos + bothBounds.odd.low * teams2X
+        const lowerClosest = lowerEven > lowerOdd ? lowerEven : lowerOdd
+
+        console.log(`lowerEven: ${lowerEven}, lowerOdd: ${lowerOdd}, pickNum: ${pickNum}`)
+
+        return lowerClosest > pickNum
+    }
+}
+
+function newPickBoundarySet(evenBounds, oddBounds, match) {
+    return {
+        'even': evenBounds,
+        'odd': oddBounds,
+        'match': match
+    }
+}
+
+function newPickBoundaries(low, high) {
+    return {
+        'low': low,
+        'high': high
+    }
+}
+
+function areBoundariesEqual(b1, b2) {
+    return b1.low === b2.low && b1.high === b2.high
+}
+
 function computeValue(player, pickNum) {
     // return player.rank - pickNum + 1
     return pickNum - player.rank
@@ -110,6 +191,7 @@ export function convertFFP(ffpPlayers) {
         newPlayer.name = player.player_name
         newPlayer.rank = player.rk
         newPlayer.position = player.pos
+        newPlayer.team = player.team
         return newPlayer
     })
 }
