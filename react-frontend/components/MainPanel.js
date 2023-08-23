@@ -47,6 +47,7 @@ export default function MainPanel({ players, lastUpdateDate }) {
                         )}
                         draftedMap={draftedMap} setDraftedMap={setDraftedMap}
                         pickNum={pickNum} setPickNum={setPickNum}
+                        draftPos={draftPos} numTeams={numTeams}
                     />
                 </Col>
                 <Col>
