@@ -166,6 +166,9 @@ function getPickBoundaries(draftPos, numTeams) {
          * Solve equation pick = draftPos + 2n * N --> n = (pick - draftPos) / 2N
          * 
          * Same goes for odd rounds (with root secondRoundPos)
+         * 
+         * This gives a decimal number in general (it might give an exact 
+         * integer which means it's exactly one of your picks).
          */
         const closestOdd = (pick - draftPos) / teams2X
         const closestEven = (pick - secondRoundPos) / teams2X
