@@ -1,4 +1,5 @@
 import { allPositions, flex, wr, rb, te } from "./PlayerLabelFunctions"
+import { incrementPickNum } from "./ControlPanelFunctions"
 
 /**
  * This should return the enriched players along with the id (player name) 
@@ -104,8 +105,8 @@ export function initDraftedMap(players) {
 export function togglePlayerDrafted(player, draftedMap, setDraftedMap, pickNum, setPickNum) {
     const drafted = draftedMap.get(player.name)
     if (pickNum && setPickNum) {
-        if (drafted && pickNum > 1) setPickNum(pickNum - 1)
-        else if (!drafted) setPickNum(pickNum + 1)
+        if (drafted) incrementPickNum(pickNum, setPickNum, -1)
+        else incrementPickNum(pickNum, setPickNum, 1)
     }
     draftedMap.set(player.name, !drafted)
     setDraftedMap(new Map(draftedMap))

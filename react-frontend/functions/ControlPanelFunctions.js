@@ -22,7 +22,7 @@ export function updateStringEvent(selectionEvent, setValue, oldValue, validValue
         setValue(newValue)
 }
 
-export function incrementPickNum(currPick, setNumPick, inc) {
+export function incrementPickNum(currPick, setPickNum, inc) {
     const newPickNum = currPick + inc
-    if(inc !== 0 && newPickNum > 0) setNumPick(newPickNum)
+    if(inc !== 0 && newPickNum > 0) setPickNum(newPickNum)
 }
