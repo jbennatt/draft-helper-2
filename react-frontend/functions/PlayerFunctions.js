@@ -65,7 +65,7 @@ export function enrichPlayers(allPlayers, draftedMap, pickNum, draftPos,
 }
 
 export function filterPlayers(players, ...filterFunctions) {
-    return players.filter(player => true &&
+    return players.filter(player =>
         filterFunctions.reduce(
             (acc, filterFunction) => acc && filterFunction(player),
             true
