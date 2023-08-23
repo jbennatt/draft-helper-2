@@ -3,4 +3,5 @@
     height: 80vh;
     width: 'max-content';
     overflow: auto;
+    font-size: 10px;
 }
