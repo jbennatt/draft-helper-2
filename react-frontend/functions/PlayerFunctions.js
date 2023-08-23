@@ -196,7 +196,7 @@ function getPickBoundaries(draftPos, numTeams) {
  * @returns 
  */
 function afterFirstPick(draftPos, numTeams) {
-    const _getPickBoundaries = getPickBoundaries(draftPos, numTeams, true)
+    const _getPickBoundaries = getPickBoundaries(draftPos, numTeams)
     const secondRoundPos = numTeams + numTeams - draftPos + 1
     const teams2X = 2 * numTeams
 
