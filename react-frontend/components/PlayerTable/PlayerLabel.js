@@ -1,7 +1,7 @@
-import { headerFields } from '../functions/TableFields'
-import { getPosClass, stripNumFromPos } from '../functions/PlayerLabelFunctions'
-import { togglePlayerDrafted } from '../functions/PlayerFunctions'
-import labelStyles from '../styles/PlayerLabel.module.css'
+import { headerFields } from '../../functions/TableFields'
+import { getPosClass, stripNumFromPos } from '../../functions/PlayerLabelFunctions'
+import { togglePlayerDrafted } from '../../functions/PlayerFunctions'
+import labelStyles from '../../styles/PlayerTable/PlayerLabel.module.css'
 
 export default function PlayerLabel({ player, draftedMap, setDraftedMap, pickNum, setPickNum }) {
     return (

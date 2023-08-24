@@ -1,5 +1,5 @@
 import mainListStyles from '../styles/MainList.module.css'
-import PlayerTable from './PlayerTable'
+import PlayerTable from './PlayerTable/PlayerTable'
 import { enrichPlayers } from '../functions/PlayerFunctions'
 
 export default function MainList({ players, draftedMap, setDraftedMap,

@@ -1,7 +1,7 @@
 import { enrichPlayers } from "../functions/PlayerFunctions";
 import { filterPlayers, filterByPos } from "../functions/PlayerFunctions";
 import styles from '../styles/PositionPanel.module.css'
-import PlayerTable from "./PlayerTable";
+import PlayerTable from "./PlayerTable/PlayerTable";
 import { Card } from "react-bootstrap";
 
 export function PositionPanel({ players, pos, draftedMap, setDraftedMap, pickNum,

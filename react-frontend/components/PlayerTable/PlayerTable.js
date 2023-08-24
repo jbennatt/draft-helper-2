@@ -1,5 +1,5 @@
 import { Table } from 'react-bootstrap'
-import { headerFields } from '../functions/TableFields'
+import { headerFields } from '../../functions/TableFields'
 import PlayerLabel from './PlayerLabel'
 
 export default function PlayerTable({ players, draftedMap, setDraftedMap, pickNum, setPickNum }) {
