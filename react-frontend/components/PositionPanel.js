@@ -1,37 +1,40 @@
-import { useEffect } from "react";
 import { enrichPlayers } from "../functions/PlayerFunctions";
 import { filterPlayers, filterByPos } from "../functions/PlayerFunctions";
-import { getPosPanelId } from "../functions/PositionPanelFunctions";
+import { getPosPanelId, scrollPanel } from "../functions/PositionPanelFunctions";
 import styles from '../styles/PositionPanel.module.css'
 import PlayerTable from "./PlayerTable/PlayerTable";
-import { Card } from "react-bootstrap";
+import { Card, Container, Row, Col, Button } from "react-bootstrap";
 
 export function PositionPanel({ players, pos, draftedMap, setDraftedMap, pickNum,
     setPickNum, draftPos, numTeams }) {
 
-    const [filteredPlayers, firstPickId] = enrichPlayers(
+    const filteredPlayers = enrichPlayers(
         filterPlayers(players, filterByPos(pos)),
         draftedMap, pickNum, draftPos, numTeams
     )
 
-    useEffect(() => {
-        const element = document.getElementById(getPosPanelId(pos))
-        if (element)
-            element.scrollTo({
-                top: 0,
-                behavior: 'smooth',
-            })
-    })
-
     return <Card>
         <Card.Body>
-            <div id={getPosPanelId(pos)} className={styles.pos_panel_div}>
-                <PlayerTable
-                    players={filteredPlayers}
-                    draftedMap={draftedMap} setDraftedMap={setDraftedMap}
-                    pickNum={pickNum} setPickNum={setPickNum}
-                />
-            </div>
+            <Container>
+                <Row>
+                    <Col>
+                        <div className='float-end'>
+                            <Button size='sm' onClick={() => scrollPanel(pos)}>Reset</Button>
+                        </div>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col>
+                        <div id={getPosPanelId(pos)} className={styles.pos_panel_div}>
+                            <PlayerTable
+                                players={filteredPlayers}
+                                draftedMap={draftedMap} setDraftedMap={setDraftedMap}
+                                pickNum={pickNum} setPickNum={setPickNum}
+                            />
+                        </div>
+                    </Col>
+                </Row>
+            </Container>
         </Card.Body>
     </Card>
 }

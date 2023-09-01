@@ -5,7 +5,7 @@ import { enrichPlayers } from '../functions/PlayerFunctions'
 export default function MainList({ players, draftedMap, setDraftedMap,
     pickNum, setPickNum, draftPos, numTeams }) {
 
-    const [enrichedPlayers, _] = enrichPlayers(players, draftedMap, pickNum, draftPos, numTeams)
+    const enrichedPlayers = enrichPlayers(players, draftedMap, pickNum, draftPos, numTeams)
 
     return <div className={mainListStyles.main_list}>
         <PlayerTable

@@ -14,7 +14,6 @@ export function enrichPlayers(allPlayers, draftedMap, pickNum, draftPos,
     const _getPickBoundaries = getPickBoundaries(draftPos, numTeams)
     const _afterFirstPick = afterFirstPick(draftPos, numTeams)
     let playerCount = 1
-    let firstPick = null
 
     let pickBoundaries = _getPickBoundaries(pickNum)
 
@@ -55,13 +54,12 @@ export function enrichPlayers(allPlayers, draftedMap, pickNum, draftPos,
                 pickBoundaries = _getPickBoundaries(pickNum + player.currentRank)
             }
 
-            firstPick = !firstPick ? player.name : firstPick
             ++playerCount
         }
         return player
     })
 
-    return [enrichedPlayers, firstPick]
+    return enrichedPlayers
 }
 
 export function filterPlayers(players, ...filterFunctions) {

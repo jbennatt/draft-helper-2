@@ -19,7 +19,7 @@ export default function MainPanel({ players, lastUpdateDate }) {
     const [searchValue, setSearchValue] = useState('')
     const [searchPos, setSearchPos] = useState(allPositions)
 
-    const [enrichedPlayers, _] = enrichPlayers(players, draftedMap, pickNum, draftPos, numTeams, true)
+    const enrichedPlayers = enrichPlayers(players, draftedMap, pickNum, draftPos, numTeams, true)
     // const enrichedPlayers = enrichPlayers(players, draftedMap, pickNum, draftPos, numTeams, true)
 
     return <div>
