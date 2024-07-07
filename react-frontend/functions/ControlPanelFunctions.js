@@ -1,4 +1,4 @@
-export const supportedNumTeams = [8, 10, 12]
+export const supportedNumTeams = [8, 10, 12, 14, 16]
 
 export function computeRound(pickNum, numTeams) {
     return Math.floor((pickNum - 1) / numTeams) + 1
