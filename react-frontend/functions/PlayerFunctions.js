@@ -10,7 +10,7 @@ import { incrementPickNum } from "./ControlPanelFunctions"
  * @param {*} draftPos 
  */
 export function enrichPlayers(allPlayers, draftedMap, pickNum, draftPos,
-    numTeams, resetRank = false) {
+    numTeams, resetRank = true) {
     const _getPickBoundaries = getPickBoundaries(draftPos, numTeams)
     const _afterFirstPick = afterFirstPick(draftPos, numTeams)
     let playerCount = 1
@@ -78,7 +78,7 @@ export function filterByPos(pos) {
         const strippedPos = stripNumFromPos(player.position)
         return strippedPos === pos ||
             (pos === flex &&
-                (strippedPos === rb || strippedPos === wr || strippedPos === te)
+                (strippedPos === rb || strippedPos === wr)
             )
     }
 }
