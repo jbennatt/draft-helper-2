@@ -1,4 +1,4 @@
-import { allPositions, flex, wr, rb, te } from "./PlayerLabelFunctions"
+import { allPositions, flex, qb, wr, rb, te, qbte } from "./PlayerLabelFunctions"
 import { incrementPickNum } from "./ControlPanelFunctions"
 
 /**
@@ -79,6 +79,9 @@ export function filterByPos(pos) {
         return strippedPos === pos ||
             (pos === flex &&
                 (strippedPos === rb || strippedPos === wr)
+            ) ||
+            (pos === qbte &&
+                (strippedPos === qb || strippedPos === te)
             )
     }
 }

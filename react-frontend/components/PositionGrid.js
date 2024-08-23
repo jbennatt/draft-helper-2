@@ -1,5 +1,5 @@
 import { PositionPanel } from "./PositionPanel"
-import { qb, wr, rb, te, flex, dst } from "../functions/PlayerLabelFunctions"
+import { qbte, wr, rb, flex, dst, pk } from "../functions/PlayerLabelFunctions"
 import { Container, Row, Col } from "react-bootstrap"
 
 export default function PositionGrid({ players, draftedMap, setDraftedMap,
@@ -8,7 +8,7 @@ export default function PositionGrid({ players, draftedMap, setDraftedMap,
     return <Container fluid>
         <Row>
             {
-                [qb, wr, rb].map(pos =>
+                [flex, wr, rb].map(pos =>
                     <Col key={pos}>
                         <PositionPanel
                             players={players} pos={pos}
@@ -22,7 +22,7 @@ export default function PositionGrid({ players, draftedMap, setDraftedMap,
         </Row>
         <Row>
             {
-                [te, flex, dst].map(pos =>
+                [qbte, dst, pk].map(pos =>
                     <Col key={pos}>
                         <PositionPanel
                             players={players} pos={pos}

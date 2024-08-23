@@ -4,6 +4,7 @@ export const rb = 'RB'
 export const wr = 'WR'
 export const te = 'TE'
 export const flex = 'FLEX'
+export const qbte = "QBTE"
 export const pk = 'K'
 export const dst = 'DST'
 export const positions = [allPositions, qb, rb, wr, te, flex, pk, dst]
