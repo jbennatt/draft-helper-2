@@ -4,7 +4,7 @@ import { convertFFP } from '../functions/PlayerFunctions'
 import MainPanel from '../components/MainPanel'
 // import staticData from './ffp-rankings-underscores.json'
 
-const jsonPath = 'http://jaredbennatt.com/draft-helper/data/json/rankings.json'
+const jsonPath = 'https://jaredbennatt.com/draft-helper/data/json/rankings.json'
 
 const fetchUpdatedJson = url => axios.get(url, {
   // query URL without using browser cache
